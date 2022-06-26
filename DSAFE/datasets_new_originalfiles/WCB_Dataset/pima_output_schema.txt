@@ -1,0 +1,38 @@
+NumberPregnacies <= 10
+10 < NumberPregnacies <= 11
+11 < NumberPregnacies <= 12
+12 < NumberPregnacies
+PlasmaGluConcent <= 142
+142 < PlasmaGluConcent <= 150
+150 < PlasmaGluConcent <= 152
+152 < PlasmaGluConcent
+DiastolicBldPress <= 94
+94 < DiastolicBldPress <= 103
+103 < DiastolicBldPress <= 107
+107 < DiastolicBldPress <= 117
+117 < DiastolicBldPress
+ricepsSkinFold <= 41
+41 < ricepsSkinFold <= 42
+42 < ricepsSkinFold <= 43
+43 < ricepsSkinFold <= 49
+49 < ricepsSkinFold
+2-HourSerumIns <= 341
+341 < 2-HourSerumIns <= 376
+376 < 2-HourSerumIns <= 444
+444 < 2-HourSerumIns
+BodyMassIndex <= 44.733
+44.733 < BodyMassIndex <= 45.411
+45.411 < BodyMassIndex <= 46.767
+46.767 < BodyMassIndex
+DiabPedFunc <= 0.93
+0.93 < DiabPedFunc <= 0.953
+0.953 < DiabPedFunc <= 1.001
+1.001 < DiabPedFunc <= 1.379
+1.379 < DiabPedFunc
+Age <= 48
+48 < Age <= 54
+54 < Age <= 55
+55 < Age <= 56
+56 < Age
+Class=0
+Class=1
